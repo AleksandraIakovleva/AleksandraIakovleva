@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 
-> It's my portfolio as a Data Scientist.
-+ **Education:** Netology, course "Data Scientist" 2022-2024
- 
+__It's my portfolio as a Data Scientist__  
+**My phone number** +79958995029  
+**My email** alexa.yakovleva2412@gmail.com  
+[**My telegram**](https:/t.me/alexa_yakovleva24)  
+**Education:** Netology, course "Data Scientist" 2022-2024
+___ 
 + **Skills:**
   + Data Mining
   + Machine Learning ( CV, NLP, Time Series, Recommendation Systems, NN)
