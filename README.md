@@ -13,5 +13,12 @@ Skills:
 - Statistical Modeling
 - Big Data Technologies
 - Data Visualization (Matplotlib, Seaborn)
-- SQL
+- SQL (PostGreSQL, TSQL)
 - Python 
+### Stack: 
+- Google Colab
+- Jupiter Notebook
+- Visual Studio Code
+- GitLab
+- GitHub
+- DBeaver
