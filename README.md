@@ -5,8 +5,8 @@ __It's my portfolio as a Data Scientist__
 **My phone number** +79958995029  
 **My email** alexa.yakovleva2412@gmail.com  
 [**My telegram**](https:/t.me/alexa_yakovleva24)  
-**Education:** Netology, course "Data Scientist" 2022-2024
-[**Certificates**](https://github.com/AleksandraIakovleva/AleksandraIakovleva/tree/main/Сертификаты)
+**Education:** Netology, course "Data Scientist" 2022-2024  
+[**Certificates**](https://github.com/AleksandraIakovleva/AleksandraIakovleva/tree/main/Сертификаты)  
 [**MY CV**](https://docs.google.com/document/d/1qaNiwWjfn5sUlOq188zU5K2l8jnYgga1/edit)
 ___ 
 + **Skills:**
