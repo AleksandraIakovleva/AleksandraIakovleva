@@ -26,6 +26,7 @@ ___
   + GitHub
   + DBeaver
 + **Projects Python**
+  + [Recomend Systems of Collaborative filtration in book recommendation](https://github.com/AleksandraIakovleva/AleksandraIakovleva/blob/main/Diplom-2.ipynb)
   + [ Computer Vision](https://github.com/AleksandraIakovleva/AleksandraIakovleva/blob/main/dog_vs_cat_computer_vision.ipynb)
   + [EDA](https://github.com/AleksandraIakovleva/AleksandraIakovleva/blob/main/EDA_тестовое.ipynb)
   + [Tree Decision](https://github.com/AleksandraIakovleva/AleksandraIakovleva/blob/main/Tree_Decision.ipynb) 
